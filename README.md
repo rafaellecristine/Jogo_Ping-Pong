@@ -1,4 +1,4 @@
-# Jogo_Ping-Pong
+# Jogo Ping-Pong
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/912686424497733667/932994327200804934/Screenshot_75.png?width=720&height=562" />
