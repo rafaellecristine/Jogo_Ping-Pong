@@ -1,7 +1,7 @@
 # Jogo Ping-Pong
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/912686424497733667/932994327200804934/Screenshot_75.png?width=720&height=562" />
+  <img src="" />
 </p>
 <h1></h1>
 <div style="display: inline_block"><br>
